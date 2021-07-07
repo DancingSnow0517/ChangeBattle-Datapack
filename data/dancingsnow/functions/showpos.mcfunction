@@ -1,0 +1,2 @@
+scoreboard players reset @s getPos
+tellraw @s [{"text": "X: "}, {"score":{"name": "*","objective": "posX"},"color": "green"}, {"text": ", Y: "}, {"score":{"objective": "posY", "name": "*"},"color": "green"}, {"text": ", Z: "},{"score":{"objective": "posZ","name": "*"},"color": "green"}]
