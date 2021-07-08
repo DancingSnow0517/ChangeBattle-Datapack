@@ -14,5 +14,3 @@ scoreboard objectives add vars dummy
 scoreboard players set centerX vars 0
 scoreboard players set centerZ vars 0
 scoreboard players set 100 vars 100
-
-scoreboard objectives add getPos trigger
