@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlock": {
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "change:fortune_book"
+            }
+        }
+    },
+    "rewards": {
+        "function": "change:crafting/fortune_boos"
+    }
+}

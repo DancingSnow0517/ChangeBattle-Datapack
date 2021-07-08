@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "water_bucket"
+        },
+        {
+            "item": "lava_bucket"
+        }
+    ],
+    "result": {
+        "item": "obsidian",
+        "count": 1
+    }
+}

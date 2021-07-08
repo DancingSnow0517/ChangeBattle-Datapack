@@ -1,5 +1,6 @@
 {
     "values": [
-        "dancingsnow:install"
+        "dancingsnow:install",
+        "change:load"
     ]
 }

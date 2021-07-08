@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " A ",
+        "ABA",
+        " A "
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "B": {
+            "item": "minecraft:iron_pickaxe"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block"
+    }
+}
