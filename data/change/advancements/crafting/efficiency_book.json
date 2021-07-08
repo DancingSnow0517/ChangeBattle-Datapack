@@ -3,11 +3,11 @@
         "unlock": {
             "trigger": "recipe_unlocked",
             "conditions": {
-                "recipe": "change:fortune_book"
+                "recipe": "change:efficiency_book"
             }
         }
     },
     "rewards": {
-        "function": "change:crafting/fortune_book"
+        "function": "change:crafting/efficiency_book"
     }
 }

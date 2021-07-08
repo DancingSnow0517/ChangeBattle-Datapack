@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        " BB",
+        " BC"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:flint"
+        },
+        "B": {
+            "item": "minecraft:paper"
+        },
+        "C": {
+            "item": "minecraft:iron_sword"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block"
+    }
+}

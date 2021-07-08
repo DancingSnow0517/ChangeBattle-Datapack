@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A  ",
+        " BB",
+        " BC"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:ender_eye"
+        },
+        "B": {
+            "item": "minecraft:paper"
+        },
+        "C": {
+            "item": "minecraft:fire_charge"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block"
+    }
+}
