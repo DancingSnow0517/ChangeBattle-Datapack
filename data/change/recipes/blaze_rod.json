@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ACA",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:orange_stained_glass"
+        },
+        "B": {
+            "item": "minecraft:lava_bucket"
+        },
+        "C": {
+            "item": "minecraft:firework_rocket"
+        }
+    },
+    "result": {
+        "item": "minecraft:blaze_rod",
+        "count": 1
+    }
+}

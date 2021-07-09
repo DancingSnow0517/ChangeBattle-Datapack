@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "change:diamond_armor"
+        },
+        {
+            "tag": "change:diamond_armor"
+        },
+        {
+            "tag": "change:diamond_armor"
+        }
+    ],
+    "result": {
+        "item": "minecraft:command_block"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlock": {
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "change:super_armor"
+            }
+        }
+    },
+    "rewards": {
+        "function": "change:crafting/super_armor"
+    }
+}
